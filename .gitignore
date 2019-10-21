@@ -26,6 +26,23 @@
 *.a
 *.lib
 
+# Excluded Files
+ownAlgo.m
+ownAlgo_No_Neg.m
+ownTrial.m
+Param_changes_v2_rand_recalc.m
+Parameter_changes.m
+saveSimsAndInit.m
+Spawn.m
+TEST_File_Struct.m
+Greedy.m
+GreedyFunc.m
+Greedy_Func_No_Neg.m
+/Results-Preliminary
+/Results/CPU_Cases
+/Results/SPL-*
+/Results/V1-No-SPL
+
 # Executables
 *.exe
 *.out
