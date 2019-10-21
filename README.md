@@ -15,6 +15,9 @@ Some GPU Cases for trial and error reasons
 The Files `A_Parse_All` is used to inspect results, reading results into an 8-Dimensional Array according to their filenames and then structuring the output
 in desired formats. 
 
+## 3. Related Files
+* ROS Implementation Part I: [Aruco_client](https://github.com/NicoMandel/aruco_client)
+* ROS Implementation Part II: [Knowledgebase](https://github.com/NicoMandel/knowledgebase)
 
 ## Known Issues
 The GPU versions accelerate the process, but do not allow for parfor processing of all files, due to memory errors 
